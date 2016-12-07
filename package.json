@@ -1,0 +1,25 @@
+{
+  "name": "simple-draft",
+  "version": "1.0.0",
+  "description": "simple draft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrualves/simple-draft.git"
+  },
+  "keywords": [
+    "simple",
+    "draft",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Pedro Alves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedrualves/simple-draft/issues"
+  },
+  "homepage": "https://github.com/pedrualves/simple-draft#readme"
+}
